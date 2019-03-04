@@ -1,0 +1,23 @@
+:: APT 17 IOC Emulator
+
+
+@echo off
+
+::Ping known malicious IPs
+
+ping 69.80.72.165
+ping 110.45.151.43
+ping 103.250.72.39
+ping 148.251.71.75
+ping 217.198.143.40
+ping 178.62.20.110
+ping 175.126.104.175
+ping 103.250.72.254
+ping 1.234.52.111
+
+
+::nslookup known malicious domains
+
+nslookup news.jusched.net
+nslookup translate.wordraference.com
+
