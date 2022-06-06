@@ -1,0 +1,13 @@
+IMMEDIATE THREATS NAME,IOC,MD5,SHA1,SHA256
+Emotet Returns With New TTPs And Delivers .Lnk Files To Its Victims,Emotetnew2_browsingPs1.ps1,3952caf999263773be599357388159e0,76c39a3a4823beab79e497bfcdbc2367188d95c4,09f44c33ba0a5f1e22cd5b8b0d40c9808e2668ee9050ac855a6ae0744bc9e924
+Emotet Returns With New TTPs And Delivers .Lnk Files To Its Victims,Emotetnew1_browsingLnk.lnk,95e0286c6c38320d9673b6492f9e2284,7ae2cf1d20de3a965b1c5f41368aa29e12eba450,115d7891a2abbe038c12ccc9ed3cfeedfdd1242e51bcc67bfa22c7cc2567fb10
+Emotet Returns With New TTPs And Delivers .Lnk Files To Its Victims,Emotetnew1_edrZip.zip,d7f376892166017091187e8150e68fcc,157b3c7304843eb84d11e3e6298c1a2f60df1c46,aaba65da4e03a5a52c0a834fd8a70803e91af99887ac11357bd4a573606fa3f2
+Emotet Returns With New TTPs And Delivers .Lnk Files To Its Victims,Emotetnew2_edrPs1.ps1,3952caf999263773be599357388159e0,76c39a3a4823beab79e497bfcdbc2367188d95c4,09f44c33ba0a5f1e22cd5b8b0d40c9808e2668ee9050ac855a6ae0744bc9e924
+Emotet Returns With New TTPs And Delivers .Lnk Files To Its Victims,Emotetnew1_edrLnk.lnk,95e0286c6c38320d9673b6492f9e2284,7ae2cf1d20de3a965b1c5f41368aa29e12eba450,115d7891a2abbe038c12ccc9ed3cfeedfdd1242e51bcc67bfa22c7cc2567fb10
+Emotet Returns With New TTPs And Delivers .Lnk Files To Its Victims,Emotetnew1_mailZip.zip,d7f376892166017091187e8150e68fcc,157b3c7304843eb84d11e3e6298c1a2f60df1c46,aaba65da4e03a5a52c0a834fd8a70803e91af99887ac11357bd4a573606fa3f2
+Emotet Returns With New TTPs And Delivers .Lnk Files To Its Victims,http://cipro.mx,,,
+Emotet Returns With New TTPs And Delivers .Lnk Files To Its Victims,http://filmmogzivota.rs,,,
+Emotet Returns With New TTPs And Delivers .Lnk Files To Its Victims,https://creemo.pl/,,,
+Emotet Returns With New TTPs And Delivers .Lnk Files To Its Victims,http://demo34.ckg.hk,,,
+Emotet Returns With New TTPs And Delivers .Lnk Files To Its Victims,http://focusmedica.in,,,
+Emotet Returns With New TTPs And Delivers .Lnk Files To Its Victims,http://colegiounamuno.es,,,
